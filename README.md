@@ -1,10 +1,8 @@
 # flutter_travel_ui
 
-![](./screens/1.png)
-
-![](./screens/2.png)
-
-
+<center class="half">  
+  <img src="./screens/1.png" width="300"/><img src="./screens/2.png" width="300" style="margin-left:50px"/>
+</center>
 
 A new Flutter project.
 
