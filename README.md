@@ -1,5 +1,11 @@
 # flutter_travel_ui
 
+![](./screens/1.png)
+
+![](./screens/2.png)
+
+
+
 A new Flutter project.
 
 ## Getting Started
